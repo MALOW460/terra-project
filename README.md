@@ -1,1 +1,1 @@
-# terra-project
+Repository for terraform projects
